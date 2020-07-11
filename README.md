@@ -1,2 +1,2 @@
 # cheatsheet
-beers awesome cheatsheet
+awesome cheatsheet
